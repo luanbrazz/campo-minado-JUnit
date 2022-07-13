@@ -1,4 +1,4 @@
-<h1 align="center">💣 projeto-java-campo-minado 💣</h1> 
+<h1 align="center">💣 Projeto Campo Minado 💣</h1> 
 
 ## Descrição
 
