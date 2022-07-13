@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto criado durante a realização do curso "Java 2022 COMPLETO: Do Zero ao Profissional + Projetos! - Professor Leonardo Moura Leitão(Cod3r)" a presente na plataforma Udemy.
+Projeto criado durante a realização do curso "Java 2022 COMPLETO: Do Zero ao Profissional + Projetos! - Professor Leonardo Moura Leitão(Cod3r)" presente na plataforma Udemy.
 
 ***
 
