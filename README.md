@@ -45,4 +45,4 @@ Este projeto tem como intuito solidificar o conhecimento adquirido durante o cur
 
 Feito Luan Braz.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LuanBraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanbraz//)
+![Linkedin Badge](https://img.shields.io/badge/-LuanBraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanbraz//)
